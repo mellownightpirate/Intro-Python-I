@@ -10,7 +10,7 @@ https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 # Note: pay close attention to your current directory when trying to open "foo.txt"
 
 # YOUR CODE HERE
-with open('src/foo.txt') as f:
+with open("src/foo.txt") as f:
     shakespeare = f.read()
     print(shakespeare)
 

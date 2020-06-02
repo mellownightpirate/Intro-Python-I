@@ -7,5 +7,5 @@ import math
 
 print(2 ** 65536)
 
-#JS:
-#console.log(Math.pow(2, 65536)) # Prints infinity
+# JS:
+# console.log(Math.pow(2, 65536)) # Prints infinity
